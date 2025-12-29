@@ -21,5 +21,7 @@ categories: tutorial
     - LLMsを実装するため環境配置
     - LLMsを用いたテキスト分析
     - LLMsを用いた社会シミュレーション
-- テキスト: 特になし。関連資料は https://lvzeyu.github.io/publications/ にて公開予定である。
+- テキスト: 特になし。関連資料は https://lvzeyu.github.io/blog/2025/JAMS-seminar/ にて公開予定である。
 - 留意事項：LLMsの実装にはOpenAIのAPIキーが必要であるため、事前に取得しておくことが望ましい。
+
+> セミナーの詳細および関連資料は、今後このページで随時更新される予定である
