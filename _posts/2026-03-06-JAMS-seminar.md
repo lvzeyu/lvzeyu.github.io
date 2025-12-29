@@ -2,98 +2,24 @@
 layout: post
 title: 第80回数理社会学会大会ワンステップアップ・セミナー
 date: 2025-12-28 00:00:00
-description: 第80回数理社会学会大会前日にのワンステップアップ・セミナーの資料
-tags: turorial
-categories: turorial
+description: 数理社会学会大会前日にのワンステップアップ・セミナーの資料
+tags: NLP, LLMs
+categories: tutorial
 ---
 
-This theme implements a built-in Jekyll feature, the use of Rouge, for syntax highlighting.
-It supports more than 100 languages.
-This example is in C++.
-All you have to do is wrap your code in markdown code tags:
+# セミナーの概要
 
-````markdown
-```c++
-code code code
-```
-````
-
-```c++
-int main(int argc, char const \*argv[])
-{
-    string myString;
-
-    cout << "input a string: ";
-    getline(cin, myString);
-    int length = myString.length();
-
-    char charArray = new char * [length];
-
-    charArray = myString;
-    for(int i = 0; i < length; ++i){
-        cout << charArray[i] << " ";
-    }
-
-    return 0;
-}
-```
-
-For displaying code in a list item, you have to be aware of the indentation, as stated in [this FAQ](https://github.com/planetjekyll/quickrefs/blob/master/FAQ.md#q-how-can-i-get-backtick-fenced-code-blocks-eg--working-inside-lists-with-kramdown). You must indent your code by **(3 \* bullet_indent_level)** spaces. This is because kramdown (the markdown engine used by Jekyll) indentation for the code block in lists is determined by the column number of the first non-space character after the list item marker. For example:
-
-````markdown
-1. We can put fenced code blocks inside nested bullets, too.
-
-   1. Like this:
-
-      ```c
-      printf("Hello, World!");
-      ```
-
-   2. The key is to indent your fenced block in the same line as the first character of the line.
-````
-
-Which displays:
-
-1. We can put fenced code blocks inside nested bullets, too.
-
-   1. Like this:
-
-      ```c
-      printf("Hello, World!");
-      ```
-
-   2. The key is to indent your fenced block in the same line as the first character of the line.
-
-By default, it does not display line numbers. If you want to display line numbers for every code block, you can set `kramdown.syntax_highlighter_opts.block.line_numbers` to true in your `_config.yml` file.
-
-If you want to display line numbers for a specific code block, all you have to do is wrap your code in a liquid tag:
-
-{% raw %}
-{% highlight c++ linenos %} <br/> code code code <br/> {% endhighlight %}
-{% endraw %}
-
-The keyword `linenos` triggers display of line numbers.
-Produces something like this:
-
-{% highlight c++ linenos %}
-
-int main(int argc, char const \*argv[])
-{
-string myString;
-
-    cout << "input a string: ";
-    getline(cin, myString);
-    int length = myString.length();
-
-    char charArray = new char * [length];
-
-    charArray = myString;
-    for(int i = 0; i < length; ++i){
-        cout << charArray[i] << " ";
-    }
-
-    return 0;
-
-}
-
-{% endhighlight %}
+- 題目： 社会科学における大規模言語モデルの応用
+- 日時：2026年3月6日
+- 内容：大規模言語モデル（LLMs）の基礎的な概念と、社会科学分野における応用可能性について紹介する。ララに、LLMsを用いたテキスト分析および社会シミュレーションの具体例を取り上げ、Pythonによる実装も交えながら、理解を深めていく。
+- 目標：
+  - LLMsの基本概念と仕組みを理解する
+  - LLMsの発展と社会科学への応用可能性を把握する
+  - Pythonを用いたLLMsの実装方法を習得する
+- 扱う項目:
+    - LLMsの基礎概念
+    - LLMsを実装するため環境配置
+    - LLMsを用いたテキスト分析
+    - LLMsを用いた社会シミュレーション
+- テキスト: 特になし。関連資料は https://lvzeyu.github.io/publications/ にて公開予定である。
+- 留意事項：LLMsの実装にはOpenAIのAPIキーが必要であるため、事前に取得しておくことが望ましい。
