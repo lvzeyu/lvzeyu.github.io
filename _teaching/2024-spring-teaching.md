@@ -7,8 +7,7 @@ category: teaching
 venue: "東北大学"
 date: 2024-04-01
 permalink: https://github.com/lvzeyu/Tohoku_AIE_PBL
-img: assets/img/aie.jpg
-
+img: assets/img/aie.png
 ---
 
 産業技術総合研究所との共同授業

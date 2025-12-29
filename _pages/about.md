@@ -5,7 +5,7 @@ permalink: /
 subtitle: Computational Humanities and Social Sciences, Graduate School of Arts and Letters, Tohoku University
 profile:
   align: right
-  image: photo.jpg
+  image: photo_lv.jpg
   image_circular: true # crops the image to make it circular
   more_info: 
 
