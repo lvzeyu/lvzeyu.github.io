@@ -45,7 +45,7 @@ ninja.data = [{
         section: "Posts",
         handler: () => {
           
-            window.location.href = "/blog/2025/JAMS-seminar/";
+            window.location.href = "/blog/2026/JAMS-seminar/";
           
         },
       },{id: "books-the-godfather",
