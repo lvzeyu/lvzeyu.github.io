@@ -254,7 +254,7 @@ jekyll-archives:
     enabled: [year, tags, categories] # enables year, tag and category archives (remove if you need to disable one of them).
 
 display_tags: ["LLMs","NLP","coding"] # these tags will be displayed on the front page of your blog
-display_categories: ["tutorial", "presentations"] # these categories will be displayed on the front page of your blog
+display_categories: ["tutorial", "presentations","note"] # these categories will be displayed on the front page of your blog
 
 # -----------------------------------------------------------------------------
 # Jekyll Scholar
