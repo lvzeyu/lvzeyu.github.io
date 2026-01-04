@@ -48,6 +48,17 @@ ninja.data = [{
             window.location.href = "/blog/2026/JAMS-seminar/";
           
         },
+      },{id: "post-otreeに関するメモ",
+        
+          title: "oTreeに関するメモ",
+        
+        description: "oTreeの使い方やTipsなどのメモ",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2025/otree/";
+          
+        },
       },{id: "books-the-godfather",
           title: 'The Godfather',
           description: "",
