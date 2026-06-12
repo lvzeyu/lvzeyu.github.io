@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-05-11'
+  last_updated: '2026-06-12'
 papers:
   W1k3wDIAAAAJ:0EnyYjriUFMC:
     citations: 0
@@ -8,10 +8,6 @@ papers:
   W1k3wDIAAAAJ:3fE2CSJIrl8C:
     citations: 0
     title: "Evaluating others\u2019 well-being: Survey experiment on fictional Japanese celebrities generated from wikipedia articles and ChatGPT"
-    year: '2026'
-  W1k3wDIAAAAJ:5nxA0vEk-isC:
-    citations: 0
-    title: "Gender inequality in academic promotion: Evidence from researchers\u2019 career trajectories in Japan"
     year: '2026'
   W1k3wDIAAAAJ:8k81kl-MbHgC:
     citations: 0
@@ -26,13 +22,17 @@ papers:
     title: 'Media framing and expression of anti-China sentiment in COVID-19-related news discourse: An analysis using deep learning methods'
     year: '2022'
   W1k3wDIAAAAJ:KlAtU1dfN6UC:
-    citations: 0
+    citations: 1
     title: 'How Empathy and Partisanship Affected Attitude Changes Following the Assassination of Shinzo Abe: Evidence from Panel Surveys'
     year: '2026'
   W1k3wDIAAAAJ:LkGwnXOMwfcC:
     citations: 0
     title: Evaluating the Role of Social Capital in Post-Disaster Agricultural Recovery Using Satellite Remote Sensing
     year: '2025'
+  W1k3wDIAAAAJ:ULOm3_A8WrAC:
+    citations: 0
+    title: Gender inequality in academic promotion trajectories in Japan
+    year: '2026'
   W1k3wDIAAAAJ:WF5omc3nYNoC:
     citations: 5
     title: "\u30BD\u30FC\u30B7\u30E3\u30EB\u30E1\u30C7\u30A3\u30A2\u8A00\u8AD6\u5206\u6790\u306E\u65B9\u6CD5 \u2461 \u5B89\u500D\u9996\u76F8\u306B\u5BFE\u3059\u308B Twitter \u4E0A\u306E\u6295\u7A3F\u5206\u6790\u3092\u4E8B\u4F8B\u3068\u3057\u305F\u30C8\u30D4\u30C3\u30AF\u30E2\u30C7\u30EB\u306E\u9069\u7528"
