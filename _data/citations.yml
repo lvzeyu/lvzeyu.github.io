@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-06-12'
+  last_updated: '2026-06-29'
 papers:
   W1k3wDIAAAAJ:0EnyYjriUFMC:
     citations: 0
@@ -18,7 +18,7 @@ papers:
     title: 'Ideological and Behavioral Perspectives on Political Polarization: Evidence from Japan'
     year: '2020'
   W1k3wDIAAAAJ:IjCSPb-OGe4C:
-    citations: 37
+    citations: 38
     title: 'Media framing and expression of anti-China sentiment in COVID-19-related news discourse: An analysis using deep learning methods'
     year: '2022'
   W1k3wDIAAAAJ:KlAtU1dfN6UC:
@@ -45,10 +45,6 @@ papers:
     citations: 0
     title: Polarization of Opinion
     year: '2024'
-  W1k3wDIAAAAJ:Zph67rFs4hoC:
-    citations: 0
-    title: 'Semantic Schema and Group Differences in Everyday Conceptions of Happiness and Unhappiness: An Investigation with a Word-association Network'
-    year: Unknown Year
   W1k3wDIAAAAJ:_FxGoFyzp5QC:
     citations: 0
     title: "X \u304B\u3089\u6D6E\u304B\u3073\u4E0A\u304C\u308B \u6771\u4EAC 2020 \u30D1\u30E9\u30EA\u30F3\u30D4\u30C3\u30AF\u7AF6\u6280\u5927\u4F1A\u3068\u969C\u5BB3\u8005\u3078\u306E\u610F\u8B58 \u8A08\u7B97\u793E\u4F1A\u79D1\u5B66\u306B\u304A\u3051\u308B\u30BD\u30FC\u30B7\u30E3\u30EB\u30E1\u30C7\u30A3\u30A2\u5206\u6790\u6280\u8853\u306E\u5FDC\u7528"
