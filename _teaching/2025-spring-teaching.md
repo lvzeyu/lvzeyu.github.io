@@ -82,13 +82,13 @@ BAモデルとネットワークモデルの応用について紹介する
 
 ### 11. 意見ダイナミクス(1)
 
-Voter ModelとMajority Modelについて紹介する
+Positive Influence、Bounded ConfidenceとNegative Influenceについて
 
 - 資料: [https://lvzeyu.github.io/social_modeling_lecture/lecture11/](https://lvzeyu.github.io/social_modeling_lecture/lecture11/)
 
 
 ### 12. 意見ダイナミクス(2)
 
-意見ダイナミクスモデルの構築と応用について
+Voter ModelとMajority Modelと意見ダイナミクスの応用について
 
 - 資料: [https://lvzeyu.github.io/social_modeling_lecture/lecture12/](https://lvzeyu.github.io/social_modeling_lecture/lecture12/)
