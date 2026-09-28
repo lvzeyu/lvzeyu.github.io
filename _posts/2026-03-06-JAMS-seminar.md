@@ -18,10 +18,10 @@ categories: tutorial
   - LLMsの発展と社会科学への応用可能性を把握する
   - Pythonを用いたLLMsの実装方法を習得する
 - 扱う項目:
-    - LLMsの基礎概念
-    - LLMsを実装するため環境配置
-    - LLMsを用いたテキスト分析
-    - LLMsを用いた社会シミュレーション
+  - LLMsの基礎概念
+  - LLMsを実装するため環境配置
+  - LLMsを用いたテキスト分析
+  - LLMsを用いた社会シミュレーション
 - 留意事項：LLMsの実装にはOpenAIのAPIキーが必要であるため、事前に取得しておくことが望ましい。
 - 資料：[https://lvzeyu.github.io/Presentation/Tutorial/2026/JAMS_2026](https://lvzeyu.github.io/Presentation/Tutorial/2026/JAMS_2026)
 

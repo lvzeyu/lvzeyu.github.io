@@ -13,19 +13,20 @@ Students from various fields including social science, computer science, data sc
 ## How to Apply
 
 - Before applying, please contact me via email and attach the following documents:
-    - CV
-    - Research Proposal
-    - Transcript
-    - Language proficiency (attach language proficiency certificates if available)
-    - Personal Statement
-        - Motivation for applying
-        - Research experience and achievements in social science, data science, or related fields 
-        - Programming experience (if none, please describe your learning plan)
+
+  - CV
+  - Research Proposal
+  - Transcript
+  - Language proficiency (attach language proficiency certificates if available)
+  - Personal Statement
+    - Motivation for applying
+    - Research experience and achievements in social science, data science, or related fields
+    - Programming experience (if none, please describe your learning plan)
 
 - Please check the following links for detailed application procedures:
-    - [Guidance for Graduate Admissions(in Japanese)](https://www.sal.tohoku.ac.jp/jp/admissions/grad/)
-        - Please note that admission exams are required for both master’s and PhD applicants. You can find the previous exam questions on the above page.
-        - For international students who wish to apply to the PhD program, you may also consider applying through the IGSAL program, which offers October enrollment.
+  - [Guidance for Graduate Admissions(in Japanese)](https://www.sal.tohoku.ac.jp/jp/admissions/grad/)
+    - Please note that admission exams are required for both master’s and PhD applicants. You can find the previous exam questions on the above page.
+    - For international students who wish to apply to the PhD program, you may also consider applying through the IGSAL program, which offers October enrollment.
 
 ## What I'm Looking For
 
@@ -57,7 +58,7 @@ Students must publish or have accepted for publication at least **2** original r
 
 - **Primary author** implies First author, co-first author, or corresponding author.
 - Paper should be published as primary author at the journals/proceedings listed below:
-    - Journals that had been indexed at SCIE or SSCI.
-    - Proceedings that had been indexed at CCF (The List of International Academic Periodicals Recommended by CCF).
-    - Other peer-reviewed journals approved by instructors.
+  - Journals that had been indexed at SCIE or SSCI.
+  - Proceedings that had been indexed at CCF (The List of International Academic Periodicals Recommended by CCF).
+  - Other peer-reviewed journals approved by instructors.
 - Papers accepted with conditions will be deemed as equivalent to an accepted work, however, it must be accepted for publication before the time of the Final Examination.
