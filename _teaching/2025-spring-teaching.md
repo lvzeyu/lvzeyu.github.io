@@ -7,7 +7,7 @@ category: teaching
 venue: "東北大学 文学研究科"
 date: 2025-04-01
 permalink: https://github.com/lvzeyu/social_modeling_lecture
-img: assets/img/schelling.gif
+img: assets/img/schelling.png
 ---
 
 # 行動科学概論：社会科学におけるモデル入門

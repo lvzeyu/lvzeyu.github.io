@@ -25,4 +25,4 @@ categories: tutorial
 - 留意事項：LLMsの実装にはOpenAIのAPIキーが必要であるため、事前に取得しておくことが望ましい。
 - 資料：[https://lvzeyu.github.io/Presentation/Tutorial/2026/JAMS_2026](https://lvzeyu.github.io/Presentation/Tutorial/2026/JAMS_2026)
 
-![](qr-code.png)
+![](/assets/img/2026-JAMS-seminar-qr-code.png)
